@@ -18,6 +18,10 @@ nav {
     justify-content: center;
 }
 
+h4 {
+    font-size: 1.5em;
+}
+
 .nav-item {
     width: 10vw;
     height: 10vh;

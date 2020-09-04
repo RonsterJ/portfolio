@@ -56,7 +56,3 @@ let activeListener = about
 techBtn.addEventListener('click', technologies)
 projectsBtn.addEventListener('click', projects)
 contactBtn.addEventListener('click', contact)
-
-console.log(activeBtn)
-    const pages = [aboutPage, techPage, projectsPage, contactPage]
-    const buttons = [aboutBtn, techBtn, projectsBtn, contactBtn]
