@@ -85,3 +85,22 @@ h4 {
 .hidden {
     display: none;
 }
+
+#aboutPage {
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+}
+#techPage {
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+}
+#projectsPage {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+#contactPage {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
